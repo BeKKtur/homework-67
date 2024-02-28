@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1px;
+  margin-top: 10px;
+}
+
+.div {
+  max-width: 160px;
+}
+
+.password {
+  padding: 10px;
+}
